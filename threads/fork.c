@@ -1,4 +1,5 @@
 //forking processes -> generating clones
+//attention: not using wait.h -> zombie processes
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
